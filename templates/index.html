@@ -11,17 +11,24 @@
 
 <body>
     <div class="container text-center">
-      <h1 class="jumbotron">Films</h1>
+      <h1 class="jumbotron">SWAPI/OMDB API Review</br>Star Wars Movies</br>(by release date)</h1>
+      <h4>UTSA Data Analytics Boot Camp </br> Project 2: ETL</h4>
+      <h6>Members: Christopher Barraza, Tiffany Jones, Belle Moya, Rick Martinez</h6>
       <div>
         <!-- write a for loop that lists out your data and accesses the values using dot notation. -->
           {% for film in movies %}
-          <div class="col-lg-4">
-              <div class="card" style="width: 20rem;">
+          <div class="col-lg-12">
+              <div class="card">
                   <div class="card-body">
                     <h4 class="card-title">{{ film.Name }}</h4>
-                    <h6 class="card-subtitle mb-2 text-muted">Actors: {{ film.Actors }}</h6>
-                    <h6 class="card-subtitle mb-2 text-muted">Genre: {{ film.Genre }}</h6>
-                    <p class="card-text">Opening Crawl: {{ film.Opening_Crawl }}</p>
+                    <h6 class="card-subtitle mb-2 text-muted"><u>Release Date:</u> {{ film.Released }}<br/></h6>
+                    <h6 class="card-subtitle mb-2 text-muted"><u>DVD Release Date:</u> {{ film.DVD_Released }}<br/></h6>
+                    <h6 class="card-subtitle mb-2 text-muted"><u>Actors:</u> {{ film.Actors }}<br/></h6>
+                    <h6 class="card-subtitle mb-2 text-muted"><u>Runtime:</u> {{ film.Runtime }}<br/></h6>
+                    <h6 class="card-subtitle mb-2 text-muted"><u>Metascore:</u> {{ film.Metascore}}<br/></h6>
+                    <h6 class="card-subtitle mb-2 text-muted"><u>Awards:</u> {{ film.Awards }}<br/></h6>
+                    <h6 class="card-subtitle mb-2 text-muted"><u>Revenue:</u> {{ film.Revenue }}<br/></h6>
+                    <p class="card-text"><u>Opening Crawl:</u> </br>{{ film.Crawl }}</p>
                   </div>
                 </div>
             </div>

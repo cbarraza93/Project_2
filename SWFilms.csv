@@ -1,5 +1,5 @@
-,Name,Actors,Genre,Metascore,Awards,Revenue,Runtime,DVD Release Date,Director,Release Date,Opening Crawl
-0,Star Wars: Episode IV - A New Hope,"Mark Hamill, Harrison Ford, Carrie Fisher","Action, Adventure, Fantasy",90,Won 6 Oscars. 63 wins & 29 nominations total,"$460,998,507",121 min,2005-12-06,George Lucas,1977-05-25,"It is a period of civil war.
+,index,Name,Director_x,Actors,Genre,Metascore,Awards,Revenue,Runtime,DVD_Released,Director_y,Released,Crawl
+0,0,Star Wars: Episode IV - A New Hope,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher","Action, Adventure, Fantasy",90,Won 6 Oscars. 63 wins & 29 nominations total,"$460,998,507",121 min,2005-12-06,George Lucas,1977-05-25,"It is a period of civil war.
 Rebel spaceships, striking
 from a hidden base, have won
 their first victory against
@@ -20,7 +20,7 @@ starship, custodian of the
 stolen plans that can save her
 people and restore
 freedom to the galaxy...."
-1,Star Wars: Episode V - The Empire Strikes Back,"Mark Hamill, Harrison Ford, Carrie Fisher","Action, Adventure, Fantasy",82,Won 1 Oscar. 25 wins & 20 nominations total,"$292,753,960",124 min,2004-09-21,Irvin Kershner,1980-05-17,"It is a dark time for the
+1,1,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher","Action, Adventure, Fantasy",82,Won 1 Oscar. 25 wins & 20 nominations total,"$292,753,960",124 min,2004-09-21,Irvin Kershner,1980-05-17,"It is a dark time for the
 Rebellion. Although the Death
 Star has been destroyed,
 Imperial troops have driven the
@@ -40,7 +40,7 @@ obsessed with finding young
 Skywalker, has dispatched
 thousands of remote probes into
 the far reaches of space...."
-2,Star Wars: Episode VI - Return of the Jedi,"Mark Hamill, Harrison Ford, Carrie Fisher","Action, Adventure, Fantasy",58,Nominated for 4 Oscars. 23 wins & 20 nominations total,"$309,306,177",131 min,2004-09-21,Richard Marquand,1983-05-25,"Luke Skywalker has returned to
+2,2,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher","Action, Adventure, Fantasy",58,Nominated for 4 Oscars. 23 wins & 20 nominations total,"$309,306,177",131 min,2004-09-21,Richard Marquand,1983-05-25,"Luke Skywalker has returned to
 his home planet of Tatooine in
 an attempt to rescue his
 friend Han Solo from the
@@ -59,7 +59,7 @@ weapon will spell certain doom
 for the small band of rebels
 struggling to restore freedom
 to the galaxy..."
-3,Star Wars: Episode I - The Phantom Menace,"Ewan McGregor, Liam Neeson, Natalie Portman","Action, Adventure, Fantasy",51,Nominated for 3 Oscars. 26 wins & 69 nominations total,"$474,544,677",136 min,2005-03-22,George Lucas,1999-05-19,"Turmoil has engulfed the
+3,3,Star Wars: Episode I - The Phantom Menace,George Lucas,"Ewan McGregor, Liam Neeson, Natalie Portman","Action, Adventure, Fantasy",51,Nominated for 3 Oscars. 26 wins & 69 nominations total,"$474,544,677",136 min,2005-03-22,George Lucas,1999-05-19,"Turmoil has engulfed the
 Galactic Republic. The taxation
 of trade routes to outlying star
 systems is in dispute.
@@ -79,7 +79,7 @@ secretly dispatched two Jedi
 Knights, the guardians of
 peace and justice in the
 galaxy, to settle the conflict...."
-4,Star Wars: Episode II - Attack of the Clones,"Hayden Christensen, Natalie Portman, Ewan McGregor","Action, Adventure, Fantasy",54,Nominated for 1 Oscar. 19 wins & 65 nominations total,"$310,676,740",142 min,2005-03-22,George Lucas,2002-05-16,"There is unrest in the Galactic
+4,4,Star Wars: Episode II - Attack of the Clones,George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor","Action, Adventure, Fantasy",54,Nominated for 1 Oscar. 19 wins & 65 nominations total,"$310,676,740",142 min,2005-03-22,George Lucas,2002-05-16,"There is unrest in the Galactic
 Senate. Several thousand solar
 systems have declared their
 intentions to leave the Republic.
@@ -98,7 +98,7 @@ on the critical issue of creating
 an ARMY OF THE REPUBLIC
 to assist the overwhelmed
 Jedi...."
-5,Star Wars: Episode III - Revenge of the Sith,"Hayden Christensen, Natalie Portman, Ewan McGregor","Action, Adventure, Fantasy",68,Nominated for 1 Oscar. 26 wins & 63 nominations total,"$380,270,577",140 min,2005-11-01,George Lucas,2005-05-19,"War! The Republic is crumbling
+5,5,Star Wars: Episode III - Revenge of the Sith,George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor","Action, Adventure, Fantasy",68,Nominated for 1 Oscar. 26 wins & 63 nominations total,"$380,270,577",140 min,2005-11-01,George Lucas,2005-05-19,"War! The Republic is crumbling
 under attacks by the ruthless
 Sith Lord, Count Dooku.
 There are heroes on both sides.
